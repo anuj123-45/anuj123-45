@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anuj Guptar</h1>
+<h1 align="center">Hi 👋, I'm Anuj Gupta</h1>
 <h3 align="center">Aspiring Software Engineer | ML Enthusiast | FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj123-45&label=Profile%20views&color=0e75b6&style=flat" alt="techshivam02" /> </p>
