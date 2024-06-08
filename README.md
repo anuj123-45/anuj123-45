@@ -16,13 +16,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj123-45&show_icons=true&locale=en&layout=compact"  /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj123-45&show_icons=true&locale=en"  /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anuj123-45&theme=github-dark)](https://git.io/streak-stats)
-[![Anuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuj123-45&bg_color=000000&color=00ff33&line=00ff6e&point=268c4a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 
