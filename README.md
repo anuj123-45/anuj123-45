@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Gupta</h1>
 <h3 align="center">Aspiring Software Engineer | ML Enthusiast | FullStack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj123-45&label=Profile%20views&color=0e75b6&style=flat" alt="techshivam02" /> </p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<image src="./animated.gif" align="right"  height="250px" width="300px" alt="Runnig Cat Gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj123-45&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 
 - 🔭 I’m currently working on **Machine Learning**
